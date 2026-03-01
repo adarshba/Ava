@@ -1,0 +1,35 @@
+
+		AVA - Discord Bot Documentation Repository
+		===========================================
+
+This is the documentation repository for Ava, a Discord bot integrated
+with OpenClaw. It contains the legal and policy documents required for
+operating the bot on the Discord platform.
+
+WHAT IS THIS REPOSITORY?
+
+  This repository hosts the official documentation for Ava, including:
+
+    - Terms and Conditions
+    - Privacy Policy
+
+  These documents are published as GitHub Pages and are required by
+  Discord and OpenClaw for bot verification and compliance.
+
+PAGES
+
+  Terms and Conditions:
+    https://adarshba.github.io/Ava/terms.html
+
+  Privacy Policy:
+    https://adarshba.github.io/Ava/privacy.html
+
+CONTACT
+
+  For any questions regarding these documents, please open an issue in
+  this repository or contact the bot owner through Discord.
+
+LICENSE
+
+  The documentation in this repository is provided as-is. All rights
+  reserved by the repository owner.
